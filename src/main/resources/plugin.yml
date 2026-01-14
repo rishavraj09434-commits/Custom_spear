@@ -1,0 +1,6 @@
+name: CustomSpear
+version: 1.0
+main: me.rishav.customspear.CustomSpear
+api-version: 1.21
+author: Rishav
+description: Custom spear plugin
